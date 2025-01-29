@@ -1,6 +1,7 @@
 {
     "name": "AppMon",
     "identifier": "com.appmon.source",
+    "version": "1.0",
     "sourceURL": "https://raw.githubusercontent.com/Fenix46/appmon/refs/heads/main/apps.json",
     "apps": [
         {
