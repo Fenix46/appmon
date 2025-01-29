@@ -11,14 +11,14 @@
             "version": "21.2",
             "marketplaceID": "520480364",
             "versionDate": "2025-01-29",
-            "versionDescription": "TEST",
-            "downloadURL": "https://github.com/Fenix46/appmon/main/org.xbmc.kodi-ios_21.2_iphoneos-arm64.ipa",
-            "localizedDescription": "TEST",
-            "iconURL": "https://example.com/icon.png",
+            "versionDescription": "",
+            "downloadURL": "",
+            "localizedDescription": "",
+            "iconURL": "",
             "tintColor": "000000",
             "size": 10000000,
             "screenshotURLs": [
-                "https://example.com/screenshot1.png"
+                ""
             ]
         }
     ]
