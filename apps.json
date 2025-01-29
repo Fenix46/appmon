@@ -1,25 +1,50 @@
 {
     "name": "AppMon",
-    "identifier": "com.appmon.source",
-    "version": "1.0",
-    "sourceURL": "https://raw.githubusercontent.com/Fenix46/appmon/main/apps.json",
+    "subtitle": "A source for iOS apps.",
+    "description": "Welcome to my source!",
+    "iconURL": "logo",
+    "headerURL": "logo",
+    "website": "sito",
+    "tintColor": "#449FFF",
+    "featuredApps": [
+        "Kodi"
+    ],
     "apps": [
         {
             "name": "Kodi",
             "bundleIdentifier": "org.xbmc.kodi",
             "developerName": "XMBC",
-            "version": "21.2",
-            "marketplaceID": "520480364",
-            "versionDate": "2025-01-29",
-            "versionDescription": "TEST",
-            "downloadURL": "https://github.com/Fenix46/appmon/main/org.xbmc.kodi-ios_21.2_iphoneos-arm64.ipa",
-            "localizedDescription": "TEST",
-            "iconURL": "https://example.com/icon.png",
-            "tintColor": "000000",
-            "size": 10000000,
-            "screenshotURLs": [
-                "https://example.com/screenshot1.png"
-            ]
-        }
-    ]
+            "subtitle": "Media Center App.",
+            "localizedDescription": "Kodi is a Media Center app, to collocate video, photo, and more.",
+            "iconURL": "logo",
+            "tintColor": "#449FFF",
+            "category": "utilities",
+            "screenshots": [
+                "logo",
+                "logo",
+                "logo",
+                "logo"
+            ],
+            "versions": [
+                {
+                    "version": "21.2",
+                    "date": "2025-01-29",
+                    "buildVersion": "10",
+                    "localizedDescription": "",
+                    "downloadURL": "link",
+                    "size": 4178946,
+                    "minOSVersion": "16.0"
+                }
+          ],
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": [
+                    {
+                        "name": "LocalNetwork",
+                        "usageDescription": "test."
+                    }
+                ]
+            }
+    ],
+    "news": []
 }
