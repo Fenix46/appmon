@@ -1,7 +1,7 @@
 {
     "name": "AppMon",
     "identifier": "com.appmon.source",
-    "sourceURL": "https://https://raw.githubusercontent.com/Fenix46/appmon/refs/heads/main/apps.json",
+    "sourceURL": "https://raw.githubusercontent.com/Fenix46/appmon/refs/heads/main/apps.json",
     "apps": [
         {
             "name": "Kodi",
