@@ -11,14 +11,14 @@
             "version": "21.2",
             "marketplaceID": "520480364",
             "versionDate": "2025-01-29",
-            "versionDescription": "",
+            "versionDescription": "omega",
             "downloadURL": "",
-            "localizedDescription": "",
-            "iconURL": "",
+            "localizedDescription": "media center",
+            "iconURL": "https://raw.githubusercontent.com/Fenix46/appmon/main/kodi-logo.png",
             "tintColor": "000000",
             "size": 10000000,
             "screenshotURLs": [
-                ""
+                "https://raw.githubusercontent.com/Fenix46/appmon/main/kodi-logo.png"
             ]
         }
     ]
