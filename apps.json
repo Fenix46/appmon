@@ -19,6 +19,7 @@
             "iconURL": "logo",
             "tintColor": "#449FFF",
             "category": "utilities",
+            "marketplaceID": "520480364",
             "screenshots": [
                 "logo",
                 "logo",
@@ -35,7 +36,7 @@
                     "size": 4178946,
                     "minOSVersion": "16.0"
                 }
-          ],
+            ],
             "appPermissions": {
                 "entitlements": [],
                 "privacy": [
@@ -45,7 +46,7 @@
                     }
                 ]
             }
-        }    
+        }
     ],
     "news": []
 }
