@@ -1,5 +1,6 @@
 {
     "name": "AppMon",
+    "identifier": "com.appmon.source",
     "subtitle": "A source for iOS apps.",
     "description": "Welcome to my source!",
     "iconURL": "logo",
