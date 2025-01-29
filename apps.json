@@ -1,53 +1,17 @@
 {
     "name": "AppMon",
     "identifier": "com.appmon.source",
-    "subtitle": "A source for iOS apps.",
-    "description": "Welcome to my source!",
-    "iconURL": "logo",
-    "headerURL": "logo",
-    "website": "sito",
-    "tintColor": "#449FFF",
-    "featuredApps": [
-        "Kodi"
-    ],
     "apps": [
         {
             "name": "Kodi",
             "bundleIdentifier": "org.xbmc.kodi",
             "developerName": "XMBC",
-            "subtitle": "Media Center App.",
-            "localizedDescription": "Kodi is a Media Center app, to collocate video, photo, and more.",
+            "version": "21.2",
+            "downloadURL": "link",
+            "localizedDescription": "Kodi Media Center",
             "iconURL": "logo",
-            "tintColor": "#449FFF",
-            "category": "utilities",
-            "marketplaceID": "520480364",
-            "screenshots": [
-                "logo",
-                "logo",
-                "logo",
-                "logo"
-            ],
-            "versions": [
-                {
-                    "version": "21.2",
-                    "date": "2025-01-29",
-                    "buildVersion": "10",
-                    "localizedDescription": "",
-                    "downloadURL": "link",
-                    "size": 4178946,
-                    "minOSVersion": "16.0"
-                }
-            ],
-            "appPermissions": {
-                "entitlements": [],
-                "privacy": [
-                    {
-                        "name": "LocalNetwork",
-                        "usageDescription": "test."
-                    }
-                ]
-            }
+            "size": 4178946,
+            "marketplaceID": "520480364"
         }
-    ],
-    "news": []
+    ]
 }
